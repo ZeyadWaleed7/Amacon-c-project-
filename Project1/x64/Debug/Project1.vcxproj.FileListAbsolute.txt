@@ -1,0 +1,31 @@
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.shop.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.sign.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.Books.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.tec.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.det.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.food.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.cart.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.payment.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.cash.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.customerser.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.card.resources
+C:\Users\zeyad\source\repos\Project1\Project1\x64\Debug\Project1.shipping.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.Books.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.card.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.cart.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.cash.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.customerser.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.det.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.food.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.payment.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.shipping.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.shop.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.sign.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.tec.resources
+C:\Users\zeyad\Pictures\C++ Project\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
